@@ -1,0 +1,41 @@
+create user response {
+  name: 'Siddu',
+  job: 'QA Engineer',
+  id: '826',
+  createdAt: '2026-05-11T19:44:32.828Z',
+  _meta: {
+    powered_by: 'ReqRes',
+    docs_url: 'https://app.reqres.in/documentation',
+    upgrade_url: 'https://app.reqres.in/upgrade',
+    example_url: 'https://app.reqres.in/examples/notes-app',
+    variant: 'v1_a',
+    message: 'Your data persists here. Add auth, logs, and custom schemas to build a real backend.',
+    cta: {
+      label: 'See example app',
+      url: 'https://app.reqres.in/examples/notes-app'
+    },
+    context: 'legacy_success'
+  }
+}
+User store ID: 826
+Get User Status: 404
+get user response: {}
+Update User Status: 200
+Update User Response: {
+  name: 'Siddu Updated',
+  job: 'Senior QA Engineer',
+  updatedAt: '2026-05-11T19:44:33.524Z',
+  _meta: {
+    powered_by: 'ReqRes',
+    docs_url: 'https://app.reqres.in/documentation',
+    upgrade_url: 'https://app.reqres.in/upgrade',
+    example_url: 'https://app.reqres.in/examples/notes-app',
+    variant: 'v1_a',
+    message: 'Your data persists here. Add auth, logs, and custom schemas to build a real backend.',
+    cta: {
+      label: 'See example app',
+      url: 'https://app.reqres.in/examples/notes-app'
+    },
+    context: 'legacy_success'
+  }
+}

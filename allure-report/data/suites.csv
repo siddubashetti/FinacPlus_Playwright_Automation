@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8440","Login with valid credentials","chromium","2026-05-12","passed","2026-05-12","Login Functionality","uiTest.test.js","",""
+"","1693","Create User API Test","chromium","2026-05-12","passed","2026-05-12","","apiTest.test.js","",""
+"","7675","Search for a book in the bookstore","chromium","2026-05-12","passed","2026-05-12","Login Functionality","uiTest.test.js","",""
