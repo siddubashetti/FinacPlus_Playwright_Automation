@@ -52,8 +52,6 @@ test.describe("Login Functionality", () => {
     writeBookDetails(title, author, publisher);
 
     //Click on logout
-
-    // await expect(page.locator("#userName-value")).toHaveText(USERNAME);
     await page.locator("#submit").click();
 
   })
