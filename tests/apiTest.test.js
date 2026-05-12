@@ -1,4 +1,3 @@
-// free_user_3DagXwjs0PVSt7SjvoqUESa7ivx
 import { test, expect } from '@playwright/test';
 
 test('Create User API Test', async ({ request }) => {
